@@ -1,0 +1,13 @@
+# contents
+nav:
+  - Home: index.md
+  - hoge.md
+
+# metadata
+site_name: MkDocs Test Site
+docs_dir: src
+
+# theme
+theme:
+  name: material
+  language: ja
