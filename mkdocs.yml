@@ -7,6 +7,7 @@ nav:
 # metadata
 site_name: MkDocs Test Site
 docs_dir: src
+use_directory_urls: false
 
 # theme
 theme:
