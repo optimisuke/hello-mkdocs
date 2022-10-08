@@ -1,7 +1,8 @@
 # contents
 nav:
-  - Home: index.md
-  - hoge.md
+  - Home:
+      - インデックス: index.md
+      - ほげ: hoge.md
 
 # metadata
 site_name: MkDocs Test Site
